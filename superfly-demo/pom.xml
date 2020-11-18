@@ -184,7 +184,7 @@
     </build>
 
     <properties>
-        <superfly.version>1.6-13-SNAPSHOT</superfly.version>
+        <superfly.version>1.6-2</superfly.version>
         <spring.version>4.3.7.RELEASE</spring.version>
         <spring.security.version>4.2.9.RELEASE</spring.security.version>
         <wicket.version>6.22.0</wicket.version>
